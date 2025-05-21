@@ -3,7 +3,7 @@
 This is a minimal Docker Compose setup for self-hosting Supabase. Follow the steps [here](https://supabase.com/docs/guides/hosting/docker) to get started.
 
 Steps :
-1. Pull Image from `https://github.com/mukulgargg/supabase_with_apisix.git`
+1. Pull Image from [https://github.com/mukulgargg/supabase_with_apisix.git]
 2. cd to/path/project
 3. docker-compose pull
 4. docker-compose up -d
